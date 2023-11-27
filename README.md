@@ -2,8 +2,8 @@
 🔭 I’m currently working on Machine Learning<br>
 <!--👯 I’m looking to collaborate on<br>-->
 🤝 I’m looking for help with Explainable AI<br>
-🌱 I’m currently learning DeepLearning / Image Processing<br>
-💬 Ask me about CSS, SASS, JS<br>
+🌱 I’m currently learning DeepLearning and React Native<br>
+💬 Ask me about CSS, JS, Next.js<br>
 <!--⚡ Fun fact -->
 ✉️ Reach me: parthib22.ds@gmail.com<br>
 
