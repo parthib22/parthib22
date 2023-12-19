@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br>
+🔭 I’m currently working on Software Development<br>
 <!--👯 I’m looking to collaborate on<br>-->
 🤝 I’m looking for help with Explainable AI<br>
 🌱 I’m currently learning DeepLearning and React Native<br>
