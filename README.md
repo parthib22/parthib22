@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Software Development<br>
 <!--👯 I’m looking to collaborate on<br>-->
-🤝 I’m looking for help with Explainable AI<br>
-🌱 I’m currently learning DeepLearning and React Native<br>
+🤝 I’m looking for help with Image Processing<br>
+🌱 I’m currently learning PL/SQL<br>
 💬 Ask me about CSS, JS, Next.js<br>
 <!--⚡ Fun fact -->
 ✉️ Reach me: parthib22.ds@gmail.com<br>
